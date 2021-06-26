@@ -1,1 +1,2 @@
-# mincraft1.17cavesandcliffs
+# collisionAlgorithm
+Algorithm to detect collision between two objects
